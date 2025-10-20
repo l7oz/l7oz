@@ -12,7 +12,6 @@
 I'm **Eagle**, a 19-year-old Lua and JavaScript and Python developer from **Saudi**, focused on creating high-quality **FiveM scripts**.  
 I’m passionate about combining **design, performance, and innovation** to build experiences that make servers stand out.
 
-- 🔭 Currently working on: `Liquid Developments` (FiveM Scripts Store)  
 - 🌱 Learning more about: `Lua`, `JavaScript`, and `UI/UX`  
 - 💬 Ask me about: FiveM Development
 - ⚡ Fun fact: I believe innovation and persistence lead to excellence.  
