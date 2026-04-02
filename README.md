@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm **Eagle**, a 19-year-old Lua and JavaScript and Python developer from **Saudi**, focused on creating high-quality **FiveM scripts**.  
+I'm **Eagle**, a 20-year-old Lua and JavaScript and Python developer from **Saudi**, focused on creating high-quality **FiveM scripts**.  
 I’m passionate about combining **design, performance, and innovation** to build experiences that make servers stand out.
 
 - 🌱 Learning more about: `Lua`, `JavaScript`, and `UI/UX`  
